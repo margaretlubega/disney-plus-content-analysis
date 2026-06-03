@@ -86,4 +86,4 @@ The primary dataset is the public Disney Plus Movies and TV Shows dataset from K
 
 ---
 
-UC Berkeley, Master of Information and Data Science. DATASCI 200, with Professor Gunnar Kleeman.
+UC Berkeley, Master of Information and Data Science. DATASCI 200: Introduction to Data Science Programming.
